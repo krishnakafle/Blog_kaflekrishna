@@ -4,6 +4,8 @@ I have explained and demostrated the use case in following blog. Please do visit
 https://kaflekrishna.com.np/blog-detail/calculating-ndvi-sentinel-2-images/
 
 Output for the code is expected to be:
-<img src = 'ndvi_cover.png'>
+<br>
 
-<img src = 'ndvi.png'>
+<img src = 'ndvi_cover.png' class="center">
+
+<img src = 'ndvi.png' class="center">
