@@ -12,6 +12,7 @@ The formula for calculating NDVI is as follows:
 ``` NDVI = (NIR — RED)/(NIR + RED) ```
 
 NIR – reflection in the near-infrared spectrum
+<br>
 RED – reflection in the red range of the spectrum
 
 
