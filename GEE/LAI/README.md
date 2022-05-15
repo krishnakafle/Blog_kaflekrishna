@@ -12,7 +12,7 @@ The leaf area index (LAI), equal to half of the total green leaf area per unit o
 Google Earth Engine with python Api.
 
 
-Output for the code is expected to be:
+#### Expected Output of code is as follows:
 <br>
 
 <img src = 'LAI_cover.png' align="center">
