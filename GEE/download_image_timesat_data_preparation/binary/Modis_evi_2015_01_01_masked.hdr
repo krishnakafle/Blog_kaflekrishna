@@ -1,0 +1,16 @@
+ENVI
+description = {
+binary/Modis_evi_2015_01_01_masked.bil}
+samples = 3621
+lines   = 1244
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 2
+interleave = bsq
+byte order = 0
+map info = {Geographic Lat/Lon, 1, 1, 80.0601039089421, 29.139102028627, 0.0022457882102988, 0.0022457882102988,WGS-84}
+coordinate system string = {GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]}
+band names = {
+Band 1}
+data ignore value = -32768
